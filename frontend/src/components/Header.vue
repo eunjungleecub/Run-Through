@@ -20,8 +20,13 @@ export default {
 #header {
     margin-left: 10%;
     margin-right: 10%;
-    
+
     background-color: #F5695F;
+
+    margin-top: 50px;
+
+    margin-bottom: -50px;
+    z-index: 7;
 }
 
 </style>
